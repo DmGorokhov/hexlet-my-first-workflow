@@ -1,0 +1,1 @@
+This is hexlet-my-first-workflow for learning CI.
